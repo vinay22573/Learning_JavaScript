@@ -6,6 +6,7 @@ let accountName = "Vinay Kumar Dubey";
 var accountPassword = "Vinay22573@9793";
 accountCity = "Gorakhpur";
 let accountJoinedCompany;
+// console.log(accountJoinedCompany);//undefined ==> it gave us undefined because we have not assigned any value to it.
 console.table([accountId, accountName, accountPassword, accountCity, accountJoinedCompany]);
 accountName = "Shobhit Raj";
 accountPassword = "Shobhit22482@2004";

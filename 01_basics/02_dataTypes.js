@@ -35,8 +35,8 @@ console.log(typeof isAdult);//boolean
 console.log(typeof accountBalance);//number
 console.log(typeof "Vinay");//string
 
-// console.log(typeof null);//object
-// console.log(typeof undefined);//undefined
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined
 
 
 

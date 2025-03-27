@@ -1,0 +1,1 @@
+Welcome to the basics of JavaScript! In this section, we will dive into fundamental concepts such as variables, data types, type conversion, operations, comparisons, memory management, strings, dates and time, numbers, and the Math module. Whether you're just starting out or brushing up on your skills, this section will provide a solid foundation for mastering JavaScript.

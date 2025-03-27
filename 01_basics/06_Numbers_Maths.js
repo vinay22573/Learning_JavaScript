@@ -19,9 +19,6 @@ const balance = new Number(400);
 // console.log(Number.MIN_VALUE);
 
 
-
-
-
 // +++++++++++++++++++++++++ MATHS +++++++++++++++++++++++++++++++++++++
 
 // console.log(Math.abs(-4)); // 4
@@ -31,8 +28,6 @@ const balance = new Number(400);
 // console.log(Math.floor(6.9)); // 6
 // console.log(Math.min(4,3,6,8)); // 3
 // console.log(Math.max(4,3,6,8)); // 8
-
-
 
 // Let's Discuss about Random
 // console.log(Math.random());//gives random number between 0 and 1. (0 to can come as answer but 1 will not come)
@@ -46,8 +41,5 @@ const balance = new Number(400);
 // console.log((randomVal*(max-min+1)));
 // console.log(Math.floor(randomVal*(max-min+1)));
 // console.log(Math.floor(randomVal*(max-min+1))+min);
-
-
-
 
 

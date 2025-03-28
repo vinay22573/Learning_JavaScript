@@ -44,6 +44,9 @@ console.log(url.includes('python'));
 
 
 
-let email = 'johndoe@example.com';
-let mask = "j*****e@example.com";
-// HW convert email to mask salesforce intern problem
+let email1 = 'johndoe@example.com';
+let mask1 = "j*****e@example.com";
+let email2 = 'vinay22573@gmail.com';
+let mask2 = 'v*****3@gmail.com';
+// HW convert email to mask 
+// Salesforce Intern problem

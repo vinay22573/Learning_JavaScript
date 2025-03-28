@@ -1,2 +1,2 @@
 # Learning_JavaScript
-We will JavaScript here 
+We will be learning JavaScript here

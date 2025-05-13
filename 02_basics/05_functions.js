@@ -27,6 +27,7 @@
 
 
 // default value
+// so whatever we fill will be here else shiva as default
 // function loginMsg(username = "Shiva") {
 //     return `Welcome ${username}.`;
 //   }

@@ -42,3 +42,24 @@ console.log(handleObject(
 // console.log(getSecVal([5,7,3,4,5])); 
 // console.log(getSecVal(arr)); 
 
+// an Inner Function can use the variables of the Outer Function but the Outer Function can not use the variables of the inner function
+// Example of Outer and Inner Function Scope
+/*
+function outerFunction() {
+    const outerVariable = "I am from the Outer Function";
+
+    function innerFunction() {
+        const innerVariable = "I am from the Inner Function";
+        console.log(outerVariable); // Inner function can access outer function's variable
+        console.log(innerVariable); // Inner function can access its own variable
+    }
+
+    innerFunction();
+
+    // Uncommenting the next line will throw an error because the outer function
+    // cannot access the inner function's variable
+    // console.log(innerVariable); 
+}
+
+outerFunction();
+*/

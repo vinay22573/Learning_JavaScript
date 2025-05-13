@@ -23,6 +23,7 @@ function handleObject(anyObject){
 
 
 
+/*
 console.log(handleObject(
     {
         prodName: "NokiaPro",
@@ -31,6 +32,7 @@ console.log(handleObject(
         prodRating: 3.9,
     }
 ));
+*/
 
 
 //return second value of an array
@@ -63,3 +65,19 @@ function outerFunction() {
 
 outerFunction();
 */
+
+
+
+// ++++++++ Interesting +++++++++++++
+
+// function addOne(num){
+//     return num +1;
+// }
+// addOne(5);
+
+// Hoisting
+// const addTwo = function(num){
+//     return num + 2;
+// }
+
+// addTwo(3);
